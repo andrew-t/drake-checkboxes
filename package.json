@@ -1,6 +1,6 @@
 {
   "name": "drake-checkbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "npx http-server"
@@ -11,5 +11,6 @@
   "devDependencies": {
     "http-server": "^14.1.1"
   },
-  "files": [ "**/*.js", "img/example.png" ]
+  "files": [ "**/*.js", "img/example.png" ],
+  "repository": "https://github.com/andrew-t/drake-checkboxes"
 }

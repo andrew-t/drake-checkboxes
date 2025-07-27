@@ -6,7 +6,7 @@ This is a checkbox styled to use the Drake meme.
 <drake-checkbox checked></drake-checkbox>
 ```
 
-![Examples of the checkboxes, in the form of a fast food order input. Drake is smiling and pointing to "burger", "fries" and "cheese", but frowning and putting his hand up to "pickle" and "mayonnaise"](img/example.png);
+![Examples of the checkboxes, in the form of a fast food order input. Drake is smiling and pointing to "burger", "fries" and "cheese", but frowning and putting his hand up to "pickle" and "mayonnaise"](https://raw.githubusercontent.com/andrew-t/drake-checkboxes/refs/heads/main/img/example.png);
 
 ## Can We Not?
 
