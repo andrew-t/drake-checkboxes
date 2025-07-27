@@ -1,0 +1,15 @@
+{
+  "name": "drake-checkbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "files": [ "**/*.js", "img/example.png" ]
+}
